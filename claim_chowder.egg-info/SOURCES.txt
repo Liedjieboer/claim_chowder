@@ -1,0 +1,9 @@
+README.md
+setup.py
+chowder/__init__.py
+chowder/lib.py
+claim_chowder.egg-info/PKG-INFO
+claim_chowder.egg-info/SOURCES.txt
+claim_chowder.egg-info/dependency_links.txt
+claim_chowder.egg-info/requires.txt
+claim_chowder.egg-info/top_level.txt
