@@ -1,4 +1,14 @@
-# claim_chowder
+# Claim Chowder
+
+
+
+*“Even though the speculation is correct only by chance, which means you are wrong at least 50% of the time, nobody remembers and therefore nobody cares. You are never accountable. The audience does not remember yesterday, let alone last week, or last month.”* —Michael Crichton
+
+What if we could measure the quality of historic predictions and use that knowledge to help us decide who to listen to today?
+
+In this project we apply Machine Learning to the problem of predicting the accuracy of historic predictions. We use a dataset of 1,000,000+ predictions from the 20th century to train a model that can predict the accuracy of a prediction. 
+
+PS Claim Chowder is a poorly substantiated assertion regarding the future status or make of an item which is cited by a dubious party for later use as a reference of gross inaccuracy and to exercise gloating. Most often employed in the context of technological advancement.
 
 ## How to install
 pip install chowder
@@ -8,4 +18,4 @@ make tests
 
 # Example URLs
 https://www.skysports.com/rugby-union/news/12337/11813067/rugby-world-cup-predictions-our-pundits-share-their-predictions-ahead-of-japan-2019
-https://bleacherreport.com/articles/2585182-5-bold-predictions-for-the-2019-rugby-world-cupxw
+https://bleacherreport.com/articles/2585182-5-bold-predictions-for-the-2019-rugby-world-cup
