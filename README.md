@@ -6,9 +6,9 @@
 
 What if we could measure the quality of historic predictions and use that knowledge to help us decide who to listen to today?
 
-In this project we apply Machine Learning to the problem of predicting the accuracy of historic predictions. We use a dataset of 1,000,000+ predictions from the 20th century to train a model that can predict the accuracy of a prediction. 
+In this project we apply Machine Learning to the problem of predicting the accuracy of historic predictions. We use NLP to build a dataset of historic predictions and outcomes and we train a model that can predict the reliability of any given source. 
 
-PS Claim Chowder is a poorly substantiated assertion regarding the future status or make of an item which is cited by a dubious party for later use as a reference of gross inaccuracy and to exercise gloating. Most often employed in the context of technological advancement.
+"Claim Chowder" : a poorly substantiated assertion regarding the future status or make of an item which is cited by a dubious party for later use as a reference of gross inaccuracy and to exercise gloating. Most often employed in the context of technological advancement (https://www.urbandictionary.com/define.php?term=Claim%20Chowder)
 
 ## How to install
 pip install chowder
