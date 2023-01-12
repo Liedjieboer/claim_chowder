@@ -6,7 +6,7 @@
 
 What if we could measure the quality of historic predictions and use that knowledge to help us decide who to listen to today?
 
-In this project we apply Machine Learning to the problem of capturing, quantifying and gauging the accuracy of historic predictions. We use NLP to build a dataset of historic predictions and outcomes and we train a model that can predict the reliability of any given source. 
+In this project we apply Machine Learning to the problem of capturing, quantifying and gauging the accuracy of historic predictions. We use NLP to build a dataset of historic predictions and outcomes and we train a model that can predict the reliability of any given source.
 
 Things we might want to try:
 * Using ChatGPT to generate code to capture predictions (or just even just the text) from a given source
@@ -26,3 +26,11 @@ make tests
 # Example URLs
 https://www.skysports.com/rugby-union/news/12337/11813067/rugby-world-cup-predictions-our-pundits-share-their-predictions-ahead-of-japan-2019
 https://bleacherreport.com/articles/2585182-5-bold-predictions-for-the-2019-rugby-world-cup
+https://www.theguardian.com/sport/2019/sep/19/rugby-world-cup-2019-guardian-predictions
+https://www.independent.co.uk/sport/rugby/rugby-union/international/rugby-world-cup-2019-predictions-winner-dark-horses-top-player-breakout-star-a9113531.html
+https://www.theweek.co.uk/2019-rugby-world-cup/103204/rugby-world-cup-japan-winner-predictions-webb-ellis-cup
+
+
+
+# Interesting article
+https://www.significancemagazine.com/sports/637-how-well-did-an-algorithm-perform-at-the-2019-rugby-world-cup
